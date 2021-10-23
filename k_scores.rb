@@ -13,7 +13,7 @@ def scores(numbers, k, n)
        i += 1
     end
 
-    final_arr
+    p final_arr
 
 end
   
